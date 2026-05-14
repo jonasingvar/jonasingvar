@@ -9,8 +9,6 @@ Most of my engineering work over the past 20+ years has been in private enterpri
 
 I’m now starting to publish more of the tooling, workflows, and engineering patterns I’ve developed around AI-assisted development, distributed systems, and high-velocity engineering teams.
 
----
-
 ## What I Work On
 
 - Agentic AI engineering workflows
@@ -22,8 +20,6 @@ I’m now starting to publish more of the tooling, workflows, and engineering pa
 - Observability and operational excellence
 - APIs, integrations, and backend systems
 
----
-
 ## Current Interests
 
 - Claude Code and agentic development workflows
@@ -34,8 +30,6 @@ I’m now starting to publish more of the tooling, workflows, and engineering pa
 - Developer tooling and automation
 - Analytics and reporting platforms
 - High-velocity engineering organizations
-
----
 
 ## Core Technologies
 
@@ -60,8 +54,6 @@ Playwright • Cypress • Selenium • Testcontainers • Postman
 ### AI-Assisted Engineering
 Claude Code • Cursor • Copilot • Agentic engineering workflows • Automated code review systems
 
----
-
 ## Career Highlights
 
 - Led adoption of AI-first engineering practices at Provision Analytics
@@ -71,8 +63,6 @@ Claude Code • Cursor • Copilot • Agentic engineering workflows • Automat
 - Worked on telecom platforms deployed globally for Ericsson and Vodafone Japan
 - Delivered cloud migrations and modernization initiatives across AWS, Azure, and GCP
 - 20+ years consulting across North America and Europe
-
----
 
 ## Areas of Experience
 
@@ -87,8 +77,6 @@ Claude Code • Cursor • Copilot • Agentic engineering workflows • Automat
 - Observability and reliability engineering
 - Large-scale integrations
 
----
-
 ## Public Repositories
 
 I’m currently publishing and refining repositories related to:
@@ -102,8 +90,6 @@ I’m currently publishing and refining repositories related to:
 - Distributed systems examples
 
 More coming soon.
-
----
 
 ## Links
 
