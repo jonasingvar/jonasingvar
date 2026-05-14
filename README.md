@@ -33,6 +33,9 @@ I’m now starting to publish more of the tooling, workflows, and engineering pa
 
 ## Core Technologies
 
+### AI-Assisted Engineering
+Claude Code • Codex • Cursor • Copilot • Agentic engineering workflows
+
 ### Backend & Languages
 TypeScript • Node.js • C#/.NET • Java • Kotlin • Scala
 
@@ -50,9 +53,6 @@ GitHub Actions • GitLab • CircleCI • Jenkins • Datadog • Grafana • N
 
 ### Testing & Quality
 Playwright • Cypress • Selenium • Testcontainers • Postman
-
-### AI-Assisted Engineering
-Claude Code • Cursor • Copilot • Agentic engineering workflows • Automated code review systems
 
 ## Career Highlights
 
